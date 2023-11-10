@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"c2dfcebf2c40e29c","type":"file","file":"filename.md","x":-660,"y":-400,"width":400,"height":400},
+		{"id":"fd2b4825eecc35e5","type":"file","file":"test.md","x":-660,"y":140,"width":400,"height":400},
+		{"id":"f855436676016ddc","type":"text","text":"sad","x":-585,"y":-460,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"74147277d558a6cc","fromNode":"c2dfcebf2c40e29c","fromSide":"bottom","toNode":"fd2b4825eecc35e5","toSide":"top"}
+	]
+}
