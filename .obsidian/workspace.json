@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5e101562b948c777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62403fa8577a9cb8",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "filename.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "filename.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "filename.md"
+                "file": "Git.md"
               }
             }
           }
@@ -169,15 +182,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a75771c0a11fe870",
+  "active": "5e101562b948c777",
   "lastOpenFiles": [
+    "filename.md",
+    "Git.md",
     "images/重命名1.png",
     "未命名.canvas",
-    "filename.md",
     "Pasted image 20231110130335.png",
     "images",
     "Pasted image 20231110130332.png",
-    "未命名.md",
     "test.md",
     "graph.canvas",
     "未命名/未命名.md"
